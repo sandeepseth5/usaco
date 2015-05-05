@@ -16,7 +16,7 @@ public class namenum {
 		namenum taggedName = new namenum();
 		String ret = "";
 		taggedName.solve(num, ret);
-		
+		System.out.println("print line GitHub");
 		in.close();
 	}
 	
